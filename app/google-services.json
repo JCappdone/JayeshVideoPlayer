@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206687956006",
+    "firebase_url": "https://jayeshplayvideoapp.firebaseio.com",
+    "project_id": "jayeshplayvideoapp",
+    "storage_bucket": "jayeshplayvideoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206687956006:android:6302ded13ed6755b",
+        "android_client_info": {
+          "package_name": "com.example.jayeshplayvideoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206687956006-jo00vuq3gicj267hbvo3prj9tae94t2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayeshplayvideoapp",
+            "certificate_hash": "ad58254c921dbcb111303bf32adba2c6c2120044"
+          }
+        },
+        {
+          "client_id": "206687956006-ha60858g689fbrtejn7stvvc6u1ni21i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZN6TTpYjTr-Sr7L-0Ckv_rPq795jloUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206687956006-ha60858g689fbrtejn7stvvc6u1ni21i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
