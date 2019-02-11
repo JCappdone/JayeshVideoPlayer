@@ -16,7 +16,6 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.jayeshplayvideoapp.R;
-import com.example.jayeshplayvideoapp.activities.VideoDetailActivity;
 import com.example.jayeshplayvideoapp.callbacks.VideoListItemClickCallback;
 import com.example.jayeshplayvideoapp.models.VideoListModel;
 
